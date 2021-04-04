@@ -18,7 +18,7 @@ The best model proves to be the **SARIMAX** model, while the 7-days rolling aver
 
 <img src="actual_deaths.png" alt="Total number of deaths in Germany with 7-days rolling average" style="height: 40px; width:40px;"/>
 
-<img src="predicted_deaths.png.png" alt="Predicted deaths with SARIMAX model and true numbers of deaths from COVID-19 in Germany with rolling mean" style="height: 40px; width:40px;"/>
+<img src="predicted_deaths.png" alt="Predicted deaths with SARIMAX model and true numbers of deaths from COVID-19 in Germany with rolling mean" style="height: 40px; width:40px;"/>
 
 
 ## Scripts
