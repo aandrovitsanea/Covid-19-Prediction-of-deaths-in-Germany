@@ -24,10 +24,10 @@ The best model proves to be the **SARIMAX** model, while the 7-days rolling aver
 ## Scripts
 
 
-You can either open the [Notebook](Death_prediction_covid-19_Germany.ipynb) or run the [script](Death_prediction_covid-19_Germany.py.py) as following:
+You can either open the [Notebook](Death_prediction_covid-19_Germany.ipynb) or run the [script](Death_prediction_covid-19_Germany.py) as following:
 
 ```
-python3 exploratory_analysis_covid-19.py
+python3 Death_prediction_covid-19_Germany.py
 ```
 
 ## Requirements:
